@@ -1,0 +1,5 @@
+[
+  { "id": 1, "plate": "NBC 1234", "owner": "Juan Dela Cruz", "type": "Car", "slot": "A1", "timeIn": "08:15" },
+  { "id": 2, "plate": "412 QWE", "owner": "Maria Santos", "type": "Motorcycle", "slot": "B3", "timeIn": "08:40" },
+  { "id": 3, "plate": "DAH 5521", "owner": "Pedro Reyes", "type": "Van", "slot": "A4", "timeIn": "09:05" }
+]
